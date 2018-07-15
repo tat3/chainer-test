@@ -1,0 +1,10 @@
+.ipynb_checkpoints
+mnist_result
+*.model
+.env
+*.pyc
+*.pyo
+__pycache__
+!.gitkeep
+__init__.pyc
+
